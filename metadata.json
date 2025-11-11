@@ -1,0 +1,5 @@
+{
+  "name": "RouteNexus",
+  "description": "An AI-powered ticket routing system that automatically classifies and routes customer support requests to the right agents.",
+  "requestFramePermissions": []
+}
